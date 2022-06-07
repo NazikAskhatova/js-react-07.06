@@ -26,9 +26,9 @@ function ListForm({ addTask }) {
                 type="text"
                 onChange={handleChange}
                 onKeyDown={handleKeyPress}
-                placeholder="Введите значение..."
+                placeholder="Text something"
             />        
-            <button>Сохранить</button>
+            <button>Save</button>
         </form>
     )
 }

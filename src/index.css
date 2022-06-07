@@ -10,8 +10,8 @@
   margin-top: 15px;
   background: linear-gradient(
     90deg,
-    rgba(93, 12, 255, 1) 0%,
-    rgba(155, 0, 250, 1) 100%
+    rgb(235, 106, 146) 0%,
+    rgb(248, 6, 240) 100%
   );
   color: #fff;
   border: none;
@@ -27,7 +27,7 @@
 .App input {
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
-  border: 2px solid #5d0cff;
+  border: 2px solid #f61cfa;
   outline: none;
   background: transparent;
 }
@@ -40,8 +40,8 @@
   outline: none;
   background: linear-gradient(
     90deg,
-    rgba(93, 12, 255, 1) 0%,
-    rgba(155, 0, 250, 1) 100%
+    rgb(235, 106, 146) 0%,
+    rgb(248, 6, 240) 100%
   );
   color: #fff;
   text-transform: capitalize;

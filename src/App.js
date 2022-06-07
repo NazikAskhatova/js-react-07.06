@@ -32,7 +32,7 @@ function App() {
     <div className="App">
 
       <header>
-        <h1>Список задач: {todos.length}</h1>
+        <h1>The List {todos.length}</h1>
       </header>
       <ListForm addTask={addTask} />
       {todos.map((todo) => {
